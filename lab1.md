@@ -2,4 +2,12 @@ c: This chapter in Free Culture highlighted what seems to be an injustice to any
 
 Photo of Tree ![lucasnot](tree.jpg) 
 
+Screenshot1: [lucasnot](shot1.jpg) 
+Screenshot2: [lucasnot](shot2.jpg) 
+Screenshot3: [lucasnot](shot3.jpg) 
+Screenshot4: [lucasnot](shot4.jpg) 
+Screenshot5: [lucasnot](shot5.jpg) 
+Screenshot6: [lucasnot](shot6.jpg) 
+Screenshot7: [lucasnot](shot7.jpg) 
+
 
