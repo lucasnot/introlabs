@@ -10,4 +10,8 @@ Screenshot5: [lucasnot](shot5.jpg)
 Screenshot6: [lucasnot](shot6.jpg) 
 Screenshot7: [lucasnot](shot7.jpg) 
 
+Blockly Screenshot: [lucasnot](shot8.jpg)
+
+G: To find a prject that I would like to work on, I went to the RCOS page and looked at all of the currently active projects. A couple are interesting to me, either because they seem useful in everyday life, because they pertain to my interests, or they seem like they would be fun to program. These include scaffold, RPI Tours, SquareMeals, FullScreenPokemon, and Shuttle Tracker. I am not sure which I will choose to work on.
+
 
