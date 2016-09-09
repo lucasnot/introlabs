@@ -14,7 +14,6 @@
 
 10)
 Website | License Present | License
-
 ---------|:----------|:-------
 https://github.com/AutoRoute | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
 
