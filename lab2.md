@@ -14,9 +14,15 @@
 
 10)
 Website | License Present | License
+
 ---------|:----------|:-------
+
 https://github.com/AutoRoute | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
+
 https://github.com/Robmaister/SharpNav | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
+
 https://github.com/CloudBench-IDE/cloudbench | Yes | Apache License http://www.apache.org/licenses/
+
 https://github.com/makinj/MeNext | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
+
 https://github.com/rcos/venue | Yes | The MIT License (MIT) https://en.wikipedia.org/wiki/MIT_License
