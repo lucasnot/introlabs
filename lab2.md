@@ -10,7 +10,7 @@
 
 7) The license that would benefit a company the most would be the Apache License. It is a permissive software license that forces you to include copyright, but allows your to modify and distribute. Also, it has restrictions on trademarks. The MIT license can be used for Commercial or Private use. The best license for the user would be the GNU GPL v3 License. This is because, like the MIT license, it can be modified and distributed but unlike the MIT license, it has to include the original, it has to list the changes from the original, and it has to disclose its source. Lastly, the GNU License makes it so the owner cannot beheld liable. The best overall would be the MIT license. It lets you do basically what you'd like as long as you include the original license and copyright. 
 
-9)
+9) The project that I will be working on involves the time card system for the VCC help desk. The current software is old and out of date, and the manager at the help desk said they would like it to be updated and upgraded. It will be used by those who work for the help desk to keep track of the hours they have worked as well as displaying this information to the manager.
 
 10)
 
