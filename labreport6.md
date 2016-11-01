@@ -67,16 +67,3 @@ Screenshot 4: ![](4gource.png)
 
 Screenshot 5: ![](5gource.png)
 
-
-Changes made to Markdown.py
-
-def convertHeader(line):
-  line = re.sub(r'^\#\#\#(.*)$', r'<h3>\1</h3>', line)
-  line = re.sub(r'^\#\#(.*)$', r'<h2>\1</h2>', line)
-  line = re.sub(r'^\#(.*)$', r'<h1>\1</h1>', line)
-  return line
-
-def convertQuote(line):
-  line = re.sub(r'^\>(.*)$', r'<blockquote>\1</blockquote>', line)
-  return line
-
