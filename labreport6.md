@@ -67,3 +67,11 @@ Screenshot 4: ![](4gource.png)
 
 Screenshot 5: ![](5gource.png)
 
+Testing header
+<p><h1>this line has a heading</h1></p>
+Heading 1 works
+<p><h2>this line has a heading 2</h2></p>
+<p><h3>this line has a heading 3</h3></p>
+All headers works
+<p><blockquote>This line has quotes</blockquote><p>
+
